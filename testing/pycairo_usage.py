@@ -43,7 +43,7 @@ context.close_path()
 context.line_to(0.5, 0.5)
 context.move_to(0.5, 0)
 context.line_to(0, 0.5)
-context.arc(0.5, 0.5, 0.25, 0.25, 0)
+
 
 
 
